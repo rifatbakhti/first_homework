@@ -1,7 +1,6 @@
 /tmp/
 *.html_old
 *.png_backup
-Thumbs.db
+/img/Thumbs.db
 *.DS_Store
 index.html
-*.db
